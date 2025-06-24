@@ -16,7 +16,7 @@ São José dos Campos - SP
 ---
 
 ### Redes Sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kayohancosta_/](https://www.instagram.com/washington010/))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/washington010/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/washington-santos-417660229/?originalSubdomain=br)
 
 ---
