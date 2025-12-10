@@ -10,7 +10,7 @@ São José dos Campos - SP
 ### Sobre Mim:
 - 🎓 Cursando na Universidade UNIP 7° Semestre
 - 🖥️ Ciência da Computação 
-- 📚 Estudando Inglês e lendo livros no tempos livre
+- 📚 Estudando Inglês e lendo livros no tempo livre
 - 🚀 Apaixonado por Tecnologia
 
 ---
