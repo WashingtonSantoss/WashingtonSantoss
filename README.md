@@ -23,7 +23,7 @@ São José dos Campos - SP
 
 ### Tech Stack:
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
+![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
