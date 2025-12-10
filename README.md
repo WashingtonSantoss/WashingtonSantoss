@@ -34,8 +34,3 @@ São José dos Campos - SP
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
----
-
-### GitHub Stats:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WashingtonSantoss&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WashingtonSantoss&show_icons=true&theme=dark)
