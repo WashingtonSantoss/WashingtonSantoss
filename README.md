@@ -34,3 +34,6 @@ São José dos Campos - SP
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
+---
+
+![snake gif](https://github.com/WashingtonSantoss/WashingtonSantoss/blob/output/github-contribution-grid-snake.svg)
