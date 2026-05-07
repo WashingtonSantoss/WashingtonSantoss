@@ -41,4 +41,4 @@ Desenvolvedor Júnior • 23 anos • São José dos Campos - SP 🇧🇷
 
 ---
 
-![snake gif](https://github.com/WashingtonSantoss/WashingtonSantoss/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/WashingtonSantoss/WashingtonSantoss/blob/output/github-contribution-grid-snake-dark.svg)
