@@ -41,4 +41,6 @@ Desenvolvedor Júnior • 23 anos • São José dos Campos - SP 🇧🇷
 
 ---
 
-![snake gif](https://raw.githubusercontent.com/WashingtonSantoss/WashingtonSantoss/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <img src="https://github.com/WashingtonSantoss/WashingtonSantoss/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+</div>
