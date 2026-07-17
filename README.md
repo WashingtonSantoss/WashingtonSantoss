@@ -7,7 +7,7 @@ Desenvolvedor Júnior • 23 anos • São José dos Campos - SP 🇧🇷
 ---
 
 ### Sobre Mim:
-- 🎓 Graduando em Ciência da Computação — UNIP (7º semestre)
+- 🎓 Graduando em Ciência da Computação — UNIP (8º semestre)
 - 📚 Estudando inglês e desenvolvimento backend/fullstack 
 - 🚀 Interesse em Infraestrutura, DevOps e Engenharia de Software
 - 💡 Apaixonado por Tecnologia e Automação
