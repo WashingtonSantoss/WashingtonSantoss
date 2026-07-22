@@ -2,7 +2,7 @@
 
 👋 **Bem-vindo ao meu perfil!**
 
-Desenvolvedor Júnior • 23 anos • São José dos Campos - SP 🇧🇷
+Desenvolvedor Júnior • 24 anos • São José dos Campos - SP 🇧🇷
 
 ---
 
